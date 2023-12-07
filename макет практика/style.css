@@ -89,7 +89,7 @@ body {
 }
 
 .block-profes {
-	width: 17.3%;
+	width: fit-content;
 	height: 60px;
 	border-radius: 20px;
 	border: 0.3px solid #FFF;
