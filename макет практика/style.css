@@ -89,7 +89,7 @@ body {
 }
 
 .block-profes {
-	width: fit-content;
+	width: fit-content; 
 	height: 60px;
 	border-radius: 20px;
 	border: 0.3px solid #FFF;
@@ -1028,6 +1028,11 @@ body {
 
 	body {
 		width: 100%;
+	}
+
+
+	.block-left-head p {
+		text-align: center;
 	}
 
 
